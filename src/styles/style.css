@@ -21,6 +21,15 @@ button{
 ul{
   display: block;
   align-self: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.search{
+  width: 200px;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
 }
 
 li{
