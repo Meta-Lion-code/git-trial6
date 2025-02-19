@@ -1,0 +1,24 @@
+.card{
+  width: 340px;
+  height: 600px;
+  background-color: rgb(161, 161, 237);
+  border: none;
+  border-radius: 16px;
+  align-content: center;
+  justify-items: center;
+}
+
+button{
+  display: block;
+  width: 200px;padding: 8px;
+  margin: 8px;
+  border-radius: 8px;
+  border: none;
+  font-size: larger;
+  text-align: left;
+}
+
+ul{
+  display: block;
+}
+
